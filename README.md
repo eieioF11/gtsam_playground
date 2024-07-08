@@ -8,6 +8,7 @@ sudo apt-get install libboost-all-dev
 ```
 
 ## Install gtsam
+https://gtsam.org/get_started/
 ```bash
 # Add PPA
 sudo add-apt-repository ppa:borglab/gtsam-release-4.0
