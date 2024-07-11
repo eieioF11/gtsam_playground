@@ -1,7 +1,5 @@
 # gtsam_playground
 
-# icp_test
-
 ## Install Boost
 ```bash
 sudo apt-get install libboost-all-dev
